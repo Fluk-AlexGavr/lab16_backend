@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lab16_backend_Gavrichenkov.props" />
+</Project>
